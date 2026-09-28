@@ -27,7 +27,7 @@ RED = "#C0392B"
 
 st.markdown(f"""
 <style>
-    .main {{ background-color: #0000FF; }}
+    .main {{ background-color: #30d5c8; }}
     .stApp header {{ background-color: transparent; }}
     h1 {{ color: {NAVY}; }}
     .app-header {{
