@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 PRIMARY = "#30d5c8"
-NAVY = "#0A2342"
+NAVY = "#78fffa"
 AMBER = "#30d5c8"
 GREEN = "#2E7D32"
 RED = "#C0392B"
