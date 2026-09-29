@@ -19,9 +19,9 @@ st.set_page_config(
     layout="centered",
 )
 
-PRIMARY = "#063970"
-NAVY = "#063970"
-AMBER = "#063970"
+PRIMARY = "#f700ff"
+NAVY = "#f700ff"
+AMBER = "#f700ff"
 GREEN = "#2E7D32"
 RED = "#C0392B"
 
